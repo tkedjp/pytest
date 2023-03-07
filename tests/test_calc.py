@@ -1,3 +1,5 @@
+#それぞれのテスト前後で決まったコードを実行
+
 class TestCalculation(object):
 
     # 各テストの開始前に実行
